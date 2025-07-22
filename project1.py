@@ -76,6 +76,6 @@ plt.figure(figsize=(8,9))
 sales_by_region.plot(kind='pie', autopct='%1.1f%%')
 plt.title('Total Sales by Region')
 plt.tight_layout()
-plt
+plt.show()
 
 
