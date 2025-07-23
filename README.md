@@ -79,12 +79,18 @@ Pie chart for sales by region
 📊 Sample Visualizations
 📌 Total Sales by Store
 Displays a bar chart comparing sales across Store_A, Store_B, and Store_C.
+<img width="1280" height="740" alt="Figure_1" src="https://github.com/user-attachments/assets/f85cc57e-17c4-45fe-97f7-a336f1bff15b" />
+
 
 📌 Total Sales by Product
 A red-colored bar chart showcasing which products generate the most revenue.
+<img width="1280" height="740" alt="Figure_2" src="https://github.com/user-attachments/assets/da1038e8-9d66-4333-9d17-fe7603d6ba03" />
+
 
 📌 Total Sales by Region
 Pie chart representing regional contributions to overall sales.
+<img width="1280" height="740" alt="Figure_3" src="https://github.com/user-attachments/assets/3a07ac9b-6b9c-48a2-bff1-a92f757c551a" />
+
 
 🚀 How to Run
 Clone the repository:
